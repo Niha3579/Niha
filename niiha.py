@@ -1,1 +1,1 @@
-print("Niha");
+print("Niha")
